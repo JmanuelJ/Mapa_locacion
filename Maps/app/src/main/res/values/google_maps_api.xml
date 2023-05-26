@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name = "gogle_maps_key" templateMergeStrategy = "preserve" translatable = "false">AIzaSyDyGAMtL14w8wT2CGLvUV_W2qqsCiIFYcQ</string>
+</resources>
